@@ -59,5 +59,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Reference
 If you find the source code useful, please cite us:
 ```
-D. M. Nguyen and E. Tsiligianni and N. Deligiannis, "Learning Discrete Matrix Factorization Models", Signal Processing Letters, 2018 (to appear).
+D. M. Nguyen and E. Tsiligianni and N. Deligiannis, 
+"Learning Discrete Matrix Factorization Models", 
+Signal Processing Letters, 2018 (to appear).
 ```
