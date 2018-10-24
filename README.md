@@ -52,6 +52,9 @@ After training the model, you can test it by calling test.py, with the default p
 ```
 python test.py --data_dir=./data/MovieLens1M/ --snapshot_dir=./outputs/snapshots/
 ```
+## Related
+If you just want to produce continuous output, you may want to our paper: "Extendable Neural Matrix Completion" (published at ICASSP 2018)
+The source code is available at: https://github.com/nmduc/neural-matrix-completion
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
