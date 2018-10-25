@@ -20,7 +20,8 @@ A sample split (75% training, 25% testing) of the MovieLens1M dataset is include
 - train_mask.npz: training mask, same shape as the original matrix
 - val_mask.npz: validation mask, same shape as the original matrix
 - test_mask.npz: testing mask, same shape as the original matrix
-all these matrices are saved as Numpy sparse csr_matrix. 
+
+All these matrices are saved as Numpy sparse csr_matrix. 
 
 Alternatively, you can write your own DataLoader to load and feed the model during training, with data prepared in another way.
 
@@ -62,5 +63,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Reference
 If you find the source code useful, please cite us:
 ```
-D. M. Nguyen, E. Tsiligianni and N. Deligiannis, "Learning Discrete Matrix Factorization Models," in IEEE Signal Processing Letters, vol. 25, no. 5, pp. 720-724, May 2018.
+D. M. Nguyen, E. Tsiligianni and N. Deligiannis, "Learning Discrete Matrix Factorization Models," 
+in IEEE Signal Processing Letters, vol. 25, no. 5, pp. 720-724, May 2018.
 ```
